@@ -129,7 +129,7 @@ console.log(factorial);
 // *****
 
 
-// let pattern = "";
+let pattern = "";
 
 
 for (i = 1; i <= 5; i++){
